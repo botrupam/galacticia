@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Faheem 👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Rupam 👩‍💻</h1>
 <h3 align="center">A Social App Built Using FLutter SDK.</h3>
 <h32 align="start">The main objective of this application is to provide a single platform for the Students/Teachers of University/College to communicate, moreover the it provides the following features to the users:<br>  
 --	Posts abouts the Events happening in the University/College <br>
